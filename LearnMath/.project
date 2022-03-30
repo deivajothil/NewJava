@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LearnMath</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>math</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>math/calculations</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>math/calculations/BinaryToDecimal.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Music/B20/MyProjects/math/calculations/BinaryToDecimal.class</locationURI>
+		</link>
+		<link>
+			<name>math/calculations/DecimalToBinary.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Music/B20/MyProjects/math/calculations/DecimalToBinary.class</locationURI>
+		</link>
+		<link>
+			<name>math/calculations/GcdLcm.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Music/B20/MyProjects/math/calculations/GcdLcm.class</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
